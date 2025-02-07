@@ -51,18 +51,18 @@ const defaultValue = {
   },
   invoiceDetails: {
     note: "Services Period  21/03/2025 to 20/04/2025",
-    discount: "22000",
+    discount: "690",
     taxRate: "19",
     items: [
       {
         itemDescription: "Software Development Services",
-        amount: 2500,
-        qty: 0,
+        amount: 2990,
+        qty: 2,
       },
       {
         itemDescription: "Hosting Charge",
-        amount: 2200,
-        qty: 0,
+        amount: 3200,
+        qty: 3,
       },
     ],
     currency: "TND",
