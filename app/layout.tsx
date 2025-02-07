@@ -22,11 +22,11 @@ export const metadata: Metadata = {
   description:
     "Get paid on time with our free invoice maker. Create professional invoices & get them to clients instantly.",
   keywords: [
-    "invoice generator",
-    "free invoice template",
-    "invoice maker",
-    "online invoice",
-    "create invoice",
+    "invoice next generator",
+    "free invoice next template",
+    "invoice next maker",
+    "online invoice next generator",
+    "create invoice next online",
   ],
   robots: "index, follow",
   openGraph: {
@@ -41,8 +41,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@ThatsPranav",
-    creator: "@ThatsPranav",
+    site: "@bouzayenilyes",
+    creator: "@bouzayenilyes",
   },
 };
 
