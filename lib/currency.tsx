@@ -4,7 +4,6 @@ import {
   TN,
   GB,
   FlagComponent,
-  ID,
 } from "country-flag-icons/react/1x1";
 
 export const currencyList: {
