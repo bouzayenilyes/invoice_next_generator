@@ -37,7 +37,7 @@ export const useData = () => {
   const issueDate = useGetValue("issueDate");
   const dueDate = useGetValue("dueDate");
 
-  const currency = useGetValue("currency") || "INR";
+  const currency = useGetValue("currency") || "TND";
 
   const invoiceTerms = {
     invoiceNumber,
@@ -60,7 +60,7 @@ export const useData = () => {
     routingCode: routingCode,
     swiftCode: swiftCode,
     ifscCode: ifscCode,
-    currency
+    currency,
   };
 
   const yourDetails = {

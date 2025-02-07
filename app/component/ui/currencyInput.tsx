@@ -61,7 +61,7 @@ const CurrencyInput = () => {
                         value={currency.value}
                         onSelect={(currentValue) => {
                           const updatedValue =
-                            currentValue === value ? "INR" : currentValue;
+                            currentValue === value ? "TND" : currentValue;
                           localStorage.setItem("currency", updatedValue);
                           onChange(updatedValue);
                           setOpen(false);
@@ -104,7 +104,7 @@ const CurrencyInput = () => {
         );
       }}
       name="currency"
-      defaultValue={getInitialValue("currency", "INR")}
+      defaultValue={getInitialValue("currency", "TND")}
     />
   );
 };
