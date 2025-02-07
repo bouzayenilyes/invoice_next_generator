@@ -25,9 +25,9 @@ export const currencyList: {
       country: "Tunisia",
       currencySymbol: "TND",
       currencyName: "Tunisan Dinar Currency",
-      currencyShortForm: "TND",
+      currencyShortForm: "TND ",
       icon: TN,
-      iconName: "TND",
+      iconName: "TND ",
     },
   },
   {
