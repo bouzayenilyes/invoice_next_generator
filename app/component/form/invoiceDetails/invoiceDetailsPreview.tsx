@@ -5,7 +5,7 @@ import { ChevronDown } from "lucide-react";
 
 export const InvoiceDetailsPreview: React.FC<
   InvoiceItemDetails & { onClick?: (step: string) => void }
-> = ({ note, discount, taxRate, items, currency = "INR", onClick }) => {
+> = ({ note, discount, taxRate, items, currency = "TND", onClick }) => {
   const currencyType = currency;
   const currencyDetails = currencyList.find(
     (currency) => currency.value.toLowerCase() === currencyType.toLowerCase()
