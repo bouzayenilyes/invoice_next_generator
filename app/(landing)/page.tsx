@@ -39,7 +39,7 @@ const Home = () => {
             <h1 className="font-semibold text-3xl md:text-7xl text-center w-full border-t border-b py-6 border-dashed text-balance px-4 text-black border-gray-300">
               <span className="">Get Paid Faster with Free </span>
               <span className="text-transparent bg-clip-text bg-gradient-to-br from-orange-500 to-pink-400">
-                Invoice Generator
+                Invoice Next Generator
               </span>
             </h1>
           </div>
@@ -81,7 +81,7 @@ const Home = () => {
                   <span className="text-xs">Trusted by</span>
                 </div>
                 <span className="text-transparent bg-clip-text bg-gradient-to-br from-orange-500 to-pink-400">
-                  200
+                  +20K
                 </span>
                 <span className="text-xs">users</span>
               </div>
@@ -91,7 +91,7 @@ const Home = () => {
                   <span className="text-xs">Download</span>
                 </div>
                 <span className="text-transparent bg-clip-text bg-gradient-to-br from-orange-500 to-pink-400">
-                  400
+                  +13K
                 </span>
                 <span className="text-xs">Invoices</span>
               </div>
@@ -184,7 +184,7 @@ const Home = () => {
           <div className="border flex justify-center items-center w-10 h-10 border-dashed rounded-lg text-2xl border-gray-300">
             <a
               target="_blank"
-              href="https://github.com/bouzayenilyes/invoice-generator"
+              href="https://github.com/bouzayenilyes/invoice_next_generator "
             >
               <svg
                 width="15"

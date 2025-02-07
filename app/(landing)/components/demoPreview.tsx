@@ -45,7 +45,7 @@ const defaultValue = {
     currency: "TND",
   },
   invoiceTerms: {
-    invoiceNumber: "Invoice #25",
+    invoiceNumber: "Invoice #001",
     issueDate: "Fri Apr 19 2025 00:00:00 GMT+1 (Paris Standard Time)",
     dueDate: "Mon Apr 22 2025 00:00:00 GMT+1 (Paris Standard Time)",
   },
