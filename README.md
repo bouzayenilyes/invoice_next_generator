@@ -8,7 +8,7 @@
 
 A modern invoice generator built with Next.js 15, TypeScript, and Tailwind CSS. Developed by [bouzayenilyes](https://github.com/bouzayenilyes).
 
-![Project Preview](https://via.placeholder.com/800x500.png?text=Invoice+Generator+Preview) 
+![Project Preview](https://invoicenextgenerator.vercel.app) 
 *Replace with actual screenshot*
 
 ## Features ✨
